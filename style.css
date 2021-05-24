@@ -288,7 +288,7 @@ hr.light-100 {
 
 #logobannerFlexso
 {
-  height: 53px;
+  height: 53px !important;
 }
 /*
 Extra small (xs) devices (portrait phones, less than 576px)
